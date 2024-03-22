@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowJs": true,
+    "emitDecoratorMetadata": true,
+    "downlevelIteration": true
+  },
+  "include": ["src/**/*"]
+}
